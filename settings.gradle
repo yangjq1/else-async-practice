@@ -1,0 +1,6 @@
+rootProject.name = 'else-async-practice'
+include 'customer-service'
+include 'oder-service'
+include 'order-service-interface'
+include 'customer-service-interface'
+
